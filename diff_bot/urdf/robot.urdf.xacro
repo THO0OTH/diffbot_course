@@ -7,7 +7,7 @@
     <xacro:include filename="wheels.xacro"/>
     <xacro:include filename="caster_wheel.xacro"/>
     <xacro:include filename="bcaster_wheel.xacro"/>
-    
+    <xacro:include filename="gazebo_control.xacro"/>
     
 
     <!-- Base Link -->
